@@ -1,0 +1,2 @@
+a="sooriya"
+print(a)
